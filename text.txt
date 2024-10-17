@@ -11,3 +11,5 @@ new couplet
 lala la la
 la la lala
 non fst-merge
+
+second couplet for conflict resolve

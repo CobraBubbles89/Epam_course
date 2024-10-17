@@ -20,3 +20,6 @@ second couplet for conflict resolve
 third couplet conflict resolve
 
 git tag
+
+
+git stashed
